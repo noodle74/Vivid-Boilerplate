@@ -1,0 +1,23 @@
+<!doctype html>
+<head>
+<!--#include file="site.resource/includes/head.shtml" -->
+<!--#include file="site.resource/includes/js.pre.ready.shtml" --> 
+</head>
+<!--[if lt IE 7]><body class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><body class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]><body class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<body class="no-js">
+<!--<![endif]--> 
+<!--[if lt IE 7]><p class="chromeframe">Your browser is <em>not</em> supported. <a href="http://browsehappy.com/">Upgrade to a different browser</a> to experience this site.</p><![endif]-->
+<!--#include file="site.resource/includes/header.shtml" -->
+<div role="main">
+  <div class="content" id="content">
+    // Content Code in here //
+  </div>
+  <!-- content // end --> 
+</div>
+<!--#include file="site.resource/includes/footer.shtml" -->
+<!--#include file="site.resource/includes/js.post.ready.shtml" --> 
+</body>
+</html>
