@@ -1,0 +1,8 @@
+<img src="site.resource/images/print-logo.png" class="print-logo" />
+<ul class="visuallyhidden">
+  <li><a href="#navigationContainer">Skip to Navigation</a></li>
+  <li><a href="#content">Skip to Content</a></li>
+</ul>
+<!-- skip menu // end -->
+<header role="banner"></header>
+<!-- header // end -->
